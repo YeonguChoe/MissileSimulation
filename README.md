@@ -22,5 +22,5 @@ Two planets battle in the space using missiles. Player can use gravity of planet
     - Note that the file can only be started in terminal
 
 ### Windows
-
-### [Video Trailer](trailer.mp4)
+1. Unzip `OrbitalStrike-Windows.zip`
+2. Click `OrbitalStrike.exe` icon
