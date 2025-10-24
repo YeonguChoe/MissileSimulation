@@ -1,4 +1,4 @@
-# Orbital Strike
+# Missile Simulation
 
 <img width=700 src="result.gif">
 Two planets battle in the space using missiles. Player can use gravity of planets to shoot for object.
